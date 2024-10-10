@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main(){
+	int a ,b;
+	cin>>a>>b;
+	cout<<"square root: "<<a*a<<endl;
+	cout<<"cube: "<<a*a*a<<endl;
+	cout<<"area of rectangle: "<<a*b<<endl;
+	
+}
